@@ -14,14 +14,6 @@ For me it's
 [Elizabeth April](https://www.youtube.com/@ElizabethApril)
 
 and a few others but the point is as I'm watching these videos I really want to hit
-pause and record the exact timecode I'm at so I can clip a good 9 second point someone just made.
-
-
-https://dan.com/buy-domain/moosak.com?redirected=true
-https://www.domainmarket.com/buynow/www.friendlyhippo.com
-https://www.afternic.com/forsale/teavee.com
-https://www.hugedomains.com/domain_profile.cfm?d=votay.com
-
-no homeducky.com
+pause and record the exact timecode I'm at. This is so I can clip a short ~9 seconds of video because someone just made a good pointi and I don't want to lose it. After I'm done with a 30 min video I have a bunch of these timecodes.
 
 
