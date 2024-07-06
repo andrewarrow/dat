@@ -24,5 +24,4 @@ yt-dlp --download-sections "*3:25-3:32" --merge-output-format mp4  "https://www.
 
 [solution](https://news.ycombinator.com/item?id=40612663)
 
-
-
+The goal is to create a site homeducky.com that lets you keep track of all these start start and end times.
