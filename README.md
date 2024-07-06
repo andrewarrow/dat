@@ -14,7 +14,7 @@ For me it's
 [Elizabeth April](https://www.youtube.com/@ElizabethApril)
 
 and a few others but the point is as I'm watching these videos I really want to hit
-pause and record the exact timecode I'm at. This is so I can clip a short ~9 seconds of video because someone just made a good pointi and I don't want to lose it. After I'm done with a 30 min video I have a bunch of these timecodes.
+pause and record the exact timecode I'm at. This is so I can clip a short ~9 seconds of video because someone just made a good point. After I'm done with a 30 min video I have a bunch of these timecodes.
 
 ```
 yt-dlp --download-sections "*3:25-3:32" --merge-output-format mp4  "https://www.youtube.com/watch?v=57yBla5JI9k"
@@ -25,3 +25,4 @@ yt-dlp --download-sections "*3:25-3:32" --merge-output-format mp4  "https://www.
 [solution](https://news.ycombinator.com/item?id=40612663)
 
 The goal is to create a site homeducky.com that lets you keep track of all these start start and end times.
+
